@@ -6,7 +6,6 @@ categories: [K8s, 笔记]
 tags: [favicon]
 ---
 
-
 安装minikube
 ```
 brew install minikube
